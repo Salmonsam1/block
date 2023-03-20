@@ -1,2 +1,3 @@
 # block
 wifi
+hack wifi
