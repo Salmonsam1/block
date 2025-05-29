@@ -1,3 +1,0 @@
-# block
-wifi
-hack wifi
